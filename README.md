@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ra8za10
-- 👀 I’m interested in Iot, Cyber security, and Data Scientist
-- 🌱 I’m currently learning Python and PHP
+- 👀 I’m interested in Iot, Cyber security, and Data Science 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
